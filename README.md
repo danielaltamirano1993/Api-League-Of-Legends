@@ -4,7 +4,7 @@
 
 This frontend application with React.js is a practice carried out, for the consumption of APIs with a backend in Node .js.
 
-The resources used are AXIOS, REACT AND NODEJS.
+The resources used are AXIOS, CORS, EXPRESS REACT AND NODEJS.
 
 NODEMON was used for constant server restart.
 

@@ -10,9 +10,9 @@ NODEMON was used for constant server restart.
 
 ## Español
 
-Esta aplicacionfrontend con React.js es una practica realizada, para el consumo de API con un backend en Node .js. 
+Esta aplicación frontend con React.js es una practica realizada, para el consumo de API con un backend en Node .js. 
 
-Los recursos utilizados son AXIOS, REACT AND NODEJS.
+Los recursos utilizados son AXIOS, CORS,REACT AND NODEJS.
 
 Se uso NODEMON para el reinicio del servidor constante.
 

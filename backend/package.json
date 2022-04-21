@@ -1,0 +1,27 @@
+{
+  "name": "ApiLeagueOfLegends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxyServer.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon proxyServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielaltamirano1993/ApiLeagueOfLegends.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielaltamirano1993/ApiLeagueOfLegends/issues"
+  },
+  "homepage": "https://github.com/danielaltamirano1993/ApiLeagueOfLegends#readme"
+}
